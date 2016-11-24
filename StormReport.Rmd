@@ -1,7 +1,7 @@
 ---
 title: "Most Harmful Weather Events"
-author: "Paul Reiners"
-date: "August 9, 2014"
+author: "Hongyu Jin"
+date: "November 24, 2016"
 output: html_document
 ---
 
